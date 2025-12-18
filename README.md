@@ -1,4 +1,4 @@
-﻿# DMS (Document Management System)
+﻿Document Management System
 
 A modern Flask-based document management system with user authentication, file upload, search, preview, and database storage. Features a responsive Bootstrap UI with document thumbnails and user profile management.
 
@@ -182,4 +182,5 @@ This project is for educational and internal organizational use.
 **Ready to manage your documents efficiently!**
 
 For technical support or feature requests, please refer to the development team.
+
 
